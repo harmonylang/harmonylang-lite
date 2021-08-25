@@ -5,7 +5,7 @@
 	"icon": "images/harmonylang.png",
 	"version": "0.1.2",
 	"publisher": "kevinsun-dev-cornell",
-	"repository": "https://github.com/kevinsun-dev/harmonylang-lite",
+	"repository": "https://github.com/harmonylang/harmonylang-lite",
 	"engines": {
 		"vscode": "^1.59.0"
 	},
