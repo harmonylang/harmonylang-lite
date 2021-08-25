@@ -37,6 +37,9 @@ Furthermore, you can find more information about the HarmonyLang extension proje
 
 ## Release Notes
 
+### 0.1.2
+ - Updated syntax highlighting for Harmony 1.2
+
 ### 0.1.1
  - Implemented recursive import detection for reduced zip sizes
  - Implemented subfolder file extraction

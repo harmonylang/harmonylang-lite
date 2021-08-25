@@ -3,7 +3,7 @@
 	"displayName": "HarmonyLang Lite",
 	"description": "A web-based framework for running Harmony, a Python-like concurrent programming language.",
 	"icon": "images/harmonylang.png",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"publisher": "kevinsun-dev-cornell",
 	"repository": "https://github.com/kevinsun-dev/harmonylang-lite",
 	"engines": {
