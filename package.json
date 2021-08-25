@@ -3,9 +3,9 @@
 	"displayName": "HarmonyLang Lite",
 	"description": "A web-based framework for running Harmony, a Python-like concurrent programming language.",
 	"icon": "images/harmonylang.png",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"publisher": "kevinsun-dev-cornell",
-	"repository": "https://github.com/kevinsun-dev/harmonylang",
+	"repository": "https://github.com/kevinsun-dev/harmonylang-lite",
 	"engines": {
 		"vscode": "^1.59.0"
 	},
@@ -79,6 +79,7 @@
 		"@typescript-eslint/parser": "^4.26.0",
 		"@vscode/test-web": "^0.0.8",
 		"assert": "^2.0.0",
+		"esbuild": "^0.12.22",
 		"eslint": "^7.27.0",
 		"mocha": "^8.4.0",
 		"process": "^0.11.10",

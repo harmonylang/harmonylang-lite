@@ -1,4 +1,7 @@
 dist
 node_modules
 .vscode-test-web/
+.eslintrc.json
 *.vsix
+.vscode/
+build/

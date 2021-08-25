@@ -37,6 +37,10 @@ Furthermore, you can find more information about the HarmonyLang extension proje
 
 ## Release Notes
 
+### 0.1.1
+ - Implemented recursive import detection for reduced zip sizes
+ - Implemented subfolder file extraction
+
 ### 0.1.0
  - Rewrote HarmonyLang for Harmony 1.2, splitting off the Run Harmony (Server) feature into HarmonyLang Lite
  - Rewrote HarmonyLang Lite for complete GitHub.dev compatibility
